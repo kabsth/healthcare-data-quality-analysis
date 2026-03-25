@@ -21,3 +21,14 @@ Reduced invalid data significantly and improved dataset quality for analysis.
 ## Project Files
 - Jupyter Notebook: Healthcare_Data.ipynb
 - Used Dataset: Health.csv
+
+## Key Insights
+- Identified and corrected invalid categorical values
+- Cleaned inconsistent and incorrect data entries
+- Visualized improvement using before vs after comparison
+
+## Visualization
+(Upload screenshot of your final graph here)
+
+## Business Impact
+Improved data quality ensures accurate reporting and reliable analytics in healthcare systems.
